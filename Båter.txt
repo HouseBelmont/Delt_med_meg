@@ -1,0 +1,10 @@
+Vanlig personer:
+	Farstbåt
+	Flåte
+	Katamaran.
+
+Militær båter:
+	Ubåt
+	Hangarskip
+	Krysser
+
