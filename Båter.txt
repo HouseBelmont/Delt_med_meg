@@ -2,12 +2,9 @@ Vanlig personer:
 	Farstbåt
 	Flåte
 	Katamaran.
-	Kano
 
 Militær båter:
 	Ubåt
 	Hangarskip
 	Krysser
-	Destroyer
-	Milleniun Falcon
 
